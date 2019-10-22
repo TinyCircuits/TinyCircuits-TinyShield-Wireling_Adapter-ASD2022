@@ -1,7 +1,7 @@
-# TinyCircuits TinyShield Whisker Adapter ASD2022
+# TinyCircuits TinyShield Wireling Adapter ASD2022
 # ASD2022 Rev4
 
-The design files are located under design_files/ for the TinyCircuits ASD2022 Rev 4 PCB. This is a TinyShield that is meant to add 4 separately addressable Whisker Ports to any TinyDuino stack.
+The design files are located under design_files/ for the TinyCircuits ASD2022 Rev 4 PCB. This is a TinyShield that is meant to add 4 separately addressable Wireling Ports to any TinyDuino stack.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
